@@ -4,6 +4,11 @@ The NFT Worlds Game Client is the portal for players on PC, Mac and Linux system
 
 The game client is currently in a very early alpha stage. [Please report any bugs or issues you encounter](https://github.com/NFT-Worlds/NFT-Worlds-Game-Client/issues/new).
 
+## Troubleshooting
+If you're having trouble with the launcher, delete your `.nftworlds` folder which can be found:
+- Windows: Press Start and type `%appdata%`. The folder to delete is in `C:\Users\YourUser\AppData\Roaming`
+- macOS/Linux: Your home folder contains the `.nftworlds` directory.
+
 ## Building
 To build the client as an installer, run `yarn run dist`  
 To build the client as an unpackaged directory, run `yarn run dist:bare`
