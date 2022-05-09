@@ -1,6 +1,6 @@
 {
   "name": "nft-worlds-client",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "packageManager": "yarn@3.2.0",
   "scripts": {
     "dev": "electron-webpack dev",
